@@ -1,0 +1,25 @@
+.nav {
+    height: 70px;
+    background-color: green;
+}
+
+.left {
+    height: 200px;
+    background-color: darkgreen;
+}
+
+.right {
+    height: 200px;
+    background-color: lightgreen;
+}   
+
+.footer {
+    height: 70px;
+    background-color: lavender;
+    
+}
+
+
+.container{
+    background-color: transparent;
+}
