@@ -1,0 +1,36 @@
+:root{
+    --primary: #
+}
+
+.content_wrapper{
+    height: 80vh;
+}
+
+.height_one-hundred{
+    height: 100%;
+}
+
+footer{
+    height: 200px;
+}
+
+/* header */
+.jumbotron{
+    height: 600px;
+    background: url() center center no-repeat;
+}
+
+.heading{
+    color: var(--special);
+    font-weight: lighter;
+}
+
+ul{
+    list-style-type: none;
+    display: inline;
+}
+
+ul li{
+    padding: 12px 24px;
+
+}
